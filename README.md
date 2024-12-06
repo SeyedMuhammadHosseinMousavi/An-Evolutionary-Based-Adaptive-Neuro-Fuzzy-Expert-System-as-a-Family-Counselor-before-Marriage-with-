@@ -17,6 +17,9 @@ This project develops an Evolutionary-Based Adaptive Neuro-Fuzzy Expert System a
 - [Validation and Results](#validation-and-results)
 - [Conclusion](#conclusion)
 
+![image](https://github.com/user-attachments/assets/d4746794-670f-47c1-a01c-a9e0cb5941f5)
+
+
 ## Introduction
 The increasing rate of divorce in both developed and developing countries has prompted the need for proactive solutions. This project integrates evolutionary algorithms with fuzzy logic to develop an expert system that serves as a marriage counselor, capable of predicting marriage success and potentially preventing unsuccessful unions.
 
@@ -24,6 +27,7 @@ The increasing rate of divorce in both developed and developing countries has pr
 ANFIS is a hybrid model that combines the principles of neural networks and fuzzy logic, enhancing the system's ability to approximate nonlinear functions. This model:
 - Utilizes a set of fuzzy IF-THEN rules which have the capability to learn from the data.
 - Is ideal for dealing with uncertainty and modeling the nonlinear relationships typically observed in human behavior.
+![image](https://github.com/user-attachments/assets/cb5c9156-af75-4435-bb84-2f523a6e0a11)
 
 ### Key Components of ANFIS
 - **Rule Base:** Contains fuzzy IF-THEN rules.
