@@ -35,6 +35,8 @@ ANFIS is a hybrid model that combines the principles of neural networks and fuzz
 - **Reasoning Mechanism:** Performs the inference operations.
 - **Learning Algorithm:** Adjusts the parameters of the membership functions.
 
+![Picture1](https://github.com/user-attachments/assets/a68816a2-c5b2-41c7-a304-bf4c566aacfa)
+
 ## Evolutionary Algorithms
 Evolutionary Algorithms (EAs) are a subset of evolutionary computation that simulate natural evolutionary processes, such as mutation, recombination, and selection. They are used in this project for optimization and parameter tuning of the ANFIS.
 
@@ -57,6 +59,7 @@ Expert systems are computer programs that mimic the decision-making ability of a
 
 ## Validation and Results
 The system is validated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE), ensuring the accuracy and reliability of the predictions.
+![res](https://github.com/user-attachments/assets/96b59bd8-796c-4e6c-b747-234cf09293d0)
 
 ## Conclusion
 The integration of evolutionary algorithms with an adaptive neuro-fuzzy system provides a robust framework for predicting marital success. This project demonstrates the potential of artificial intelligence in addressing social challenges by supporting decision-making in pre-marital counseling.
