@@ -2,6 +2,9 @@
 
 This project develops an Evolutionary-Based Adaptive Neuro-Fuzzy Expert System aimed at counseling families before marriage to reduce divorce rates. This README provides an overview of the system components and key concepts used in the project.
 
+### Link to the paper:
+- https://openarchive.nure.ua/entities/publication/689b1260-9627-4462-9c10-1bb40b02351a
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Adaptive Neuro-Fuzzy Inference System (ANFIS)](#adaptive-neuro-fuzzy-inference-system-anfis)
@@ -52,5 +55,7 @@ The system is validated using metrics such as Mean Squared Error (MSE) and Root 
 The integration of evolutionary algorithms with an adaptive neuro-fuzzy system provides a robust framework for predicting marital success. This project demonstrates the potential of artificial intelligence in addressing social challenges by supporting decision-making in pre-marital counseling.
 
 ---
+### Please cite:
+- Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Vyacheslav Lyashenko. "An evolutionary-based adaptive Neuro-fuzzy expert system as a family counselor before marriage with the aim of divorce rate reduction." (2017).
 
 For more information, contributions, or queries, please contact the project maintainer at `h.mosavi93@basu.ac.ir`.
