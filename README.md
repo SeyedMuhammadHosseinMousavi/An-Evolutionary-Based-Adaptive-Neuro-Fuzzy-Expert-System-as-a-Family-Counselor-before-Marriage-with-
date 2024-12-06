@@ -1,6 +1,9 @@
 # An Evolutionary-Based Adaptive Neuro-Fuzzy Expert System as a Family Counselor before Marriage with the Aim of Divorce Rate Reduction
 
+<p align="justify">
 This project develops an Evolutionary-Based Adaptive Neuro-Fuzzy Expert System aimed at counseling families before marriage to reduce divorce rates. This README provides an overview of the system components and key concepts used in the project.
+</p>
+
 
 ### Link to the paper:
 - https://openarchive.nure.ua/entities/publication/689b1260-9627-4462-9c10-1bb40b02351a
