@@ -57,5 +57,5 @@ The integration of evolutionary algorithms with an adaptive neuro-fuzzy system p
 ---
 ### Please cite:
 - Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Vyacheslav Lyashenko. "An evolutionary-based adaptive Neuro-fuzzy expert system as a family counselor before marriage with the aim of divorce rate reduction." (2017).
+- Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Vyacheslav Lyashenko. "An Evolutionary-Based Adaptive Neuro-Fuzzy Expert System as a Family Counselor before Marriage with the Aim of Divorce Rate Reduction." 2nd International Conference on Research Knowledge Base in Computer Engineering and IT, Tehran-Iran, 2017.
 
-For more information, contributions, or queries, please contact the project maintainer at `h.mosavi93@basu.ac.ir`.
