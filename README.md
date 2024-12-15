@@ -7,9 +7,11 @@ This project develops an Evolutionary-Based Adaptive Neuro-Fuzzy Expert System a
 
 ### Link to the paper:
 - https://openarchive.nure.ua/entities/publication/689b1260-9627-4462-9c10-1bb40b02351a
+- https://www.researchgate.net/publication/319176882_An_Evolutionary-Based_Adaptive_Neuro-Fuzzy_Expert_System_as_a_Family_Counselor_before_Marriage_with_the_Aim_of_Divorce_Rate_Reduction
 ### Please cite:
 - Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Vyacheslav Lyashenko. "An evolutionary-based adaptive Neuro-fuzzy expert system as a family counselor before marriage with the aim of divorce rate reduction." (2017).
 - Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Vyacheslav Lyashenko. "An Evolutionary-Based Adaptive Neuro-Fuzzy Expert System as a Family Counselor before Marriage with the Aim of Divorce Rate Reduction." 2nd International Conference on Research Knowledge Base in Computer Engineering and IT, Tehran-Iran, 2017.
+- Mousavi, Seyed Muhammad Hossain and MiriNezhad, S. Younes and Lyashenko, Vyacheslav,1396,An Evolutionary-Based Adaptive Neuro-Fuzzy Expert System as a Family Counselor before Marriage with the Aim of Divorce Rate Reduction,2nd International Conference on Computer Engineering and Information Technology,Tehran,https://civilica.com/doc/696284
 
 
 ## Table of Contents
